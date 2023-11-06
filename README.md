@@ -1,7 +1,13 @@
 # team_project
-team project: NCHU Room 809
-team name: Suan-Ni-Dao-Mei ( 算你倒霉，我就愛這樣玩 )
+team project: 
+NCHU Room 809
+
+team name: 
+Suan-Ni-Dao-Mei ( 算你倒霉，我就愛這樣玩 )
+
+time:
 since 20231017 to 20231108
+
 team members:
 1. yujie - UI/UX ( figma ), team leader
 2. youxuan - coding ( html / css / js -- three.js / bootstrap )
